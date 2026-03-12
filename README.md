@@ -19,8 +19,9 @@ This analysis evaluates **Arsenal FC’s** digital footprint within the context 
 
 ## 💡 Global Strategic Insights
 1. **The "Scale Gap":** Real Madrid leads Arsenal by **~360M followers**. This gap is primarily driven by their multi-lingual strategy (7 languages) and aggressive global "Madridista" membership recruitment.
-2. **TikTok Dominance:** PSG (51.2M) and Real Madrid (65.0M) have effectively "monopolised" the Gen Z demographic. Arsenal's current TikTok base (9.7M) represents the largest opportunity for rapid global growth.
-3. **YouTube as a Destination:** Barcelona and PSG have both passed the **10M subscriber milestone** on YouTube. Arsenal (4.7M) can close this gap by pivoting to high-production, episodic long-form content.
+2. **The PSG Lifestyle Model:** PSG has surpassed 200 million followers by positioning themselves at the intersection of sport, fashion, and culture. Their non-matchday content (fashion/music collabs) often outperforms matchday posts in engagement.
+3. **TikTok Dominance:** PSG (51.2M) and Real Madrid (65.0M) have effectively "monopolised" the Gen Z demographic. Arsenal's current TikTok base (9.7M) represents the largest opportunity for rapid global growth.
+4. **YouTube as a Destination: Barcelona and PSG have both passed the **10M subscriber milestone** on YouTube. Arsenal (4.7M) can an look to their multi-format video strategy to close this gap.
 
 ## 🛠️ Methodology
 - **Global Normalisation:** Integrated data from 37+ official club accounts across different languages and platforms.

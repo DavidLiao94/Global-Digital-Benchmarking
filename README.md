@@ -18,8 +18,7 @@ This analysis evaluates **Arsenal FC’s** digital footprint within the context 
 | **Bayern** | 149.1M | 44.2M | 27.2M | 5.3M |
 | **Arsenal** | 114.1M | 30.1M | 9.7M | 4.7M |
 
-## 💡 Global<img width="756" height="466" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/546dafba-cc9e-4e67-9e3d-4d5f57100dc1" />
-
+💡 Global<img width="756" height="466" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/546dafba-cc9e-4e67-9e3d-4d5f57100dc1" />
 
 
  Strategic Insights

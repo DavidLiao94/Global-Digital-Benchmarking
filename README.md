@@ -15,6 +15,7 @@ This analysis evaluates **Arsenal FC’s** digital footprint within the context 
 | **Barcelona** | 428.3M | 143.0M | 60.0M | 22.3M |
 | **Man United** | 233.7M | 65.5M | 29.3M | 10.0M |
 | **PSG** | 200.2M | 65.9M | 51.2M | 10.0M |
+| **Bayern** | 149.1M | 44.2M | 27.2M | 5.3M |
 | **Arsenal** | 114.1M | 30.1M | 9.7M | 4.7M |
 
 ## 💡 Global Strategic Insights

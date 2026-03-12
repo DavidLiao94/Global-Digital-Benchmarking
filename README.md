@@ -20,6 +20,8 @@ This analysis evaluates **Arsenal FC’s** digital footprint within the context 
 
 ## 💡 Global<img width="756" height="466" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/546dafba-cc9e-4e67-9e3d-4d5f57100dc1" />
 
+
+
  Strategic Insights
 1. **The "Scale Gap":** Real Madrid leads Arsenal by **~360M followers**. This gap is primarily driven by their multi-lingual strategy (7 languages) and aggressive global "Madridista" membership recruitment.
 2. **The PSG Lifestyle Model:** PSG has surpassed 200 million followers by positioning themselves at the intersection of sport, fashion, and culture. Their non-matchday content (fashion/music collabs) often outperforms matchday posts in engagement.
